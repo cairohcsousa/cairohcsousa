@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cairohcsousa
+- 👋 Hi, I’m Cairo Sousa (@cairohcsousa)
 - 👀 I’m interested in Statistics, Python and Data Vizualization.
 - 🌱 I’m currently learning more Python
 - 💞️ I’m looking to collaborate on Data Science projects
