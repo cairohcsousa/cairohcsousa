@@ -12,7 +12,7 @@ But I might add that most of my projects are related to Python and Data Analysis
 [![Image](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0003-0218-8599)
 
 ## 🧑 About me
-Well, I can say a lot about me. I was born in 1997. I am Brazilian. I am a big Vasco da Gama fan 💢. I'm never satisfied with myself, to a level that can even be interpreted as unhealthy.
+Well, I can say a lot about me. I was born in 1997. I am Brazilian 🇧🇷. I am a big Vasco da Gama fan 💢. I'm never satisfied with myself, to a level that can even be interpreted as unhealthy.
 
 But I also do can tell you about who I am, in an academic and professional sense.
 
@@ -28,6 +28,14 @@ I think I'm only at the beginning of the Analytics journey, and I would really m
 Thank you so much for reading through all of this.
 Here, this is for you: 🎁
 
+## ✍️ Stack and technologies
+![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 🛠️ Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cairohcsousa&show_icons=true&theme=gotham&hide=prs,issues)](https://github.com/cairohcsousa/github-readme-stats)
